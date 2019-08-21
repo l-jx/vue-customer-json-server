@@ -1,4 +1,10 @@
-### postman
+### json-server+postman(测试http请求的工具)
+
+json-server：https://github.com/typicode/json-server
+
+jsonplaceholder：https://jsonplaceholder.typicode.com/
+
+postman：网上下载
 
 ```
 获取所有用户的信息
